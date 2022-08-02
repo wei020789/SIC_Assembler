@@ -1,0 +1,11 @@
+﻿  SIC_ASSEMBLER.cpp
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass1.h(23,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass1.h(30,14): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass1.h(67,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass1.h(77,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass1.h(86,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass2.h(21,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass2.h(29,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass2.h(53,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\SIC_Assembler\SIC_ASSEMBLER\pass2.h(81,19): warning C4018: '<': signed/unsigned 不相符
+  SIC_ASSEMBLER.vcxproj -> C:\Users\user\OneDrive\桌面\SIC_Assembler\Debug\SIC_ASSEMBLER.exe
